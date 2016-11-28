@@ -15,6 +15,10 @@ This is my new home to sharing my works , problems and maybe expriences around p
 I would appriciate receiving your feedback.
 
 Thank you;
+
+<br />
+<hr>
+<br />
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
